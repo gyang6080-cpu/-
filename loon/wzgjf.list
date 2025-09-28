@@ -1,12 +1,15 @@
-DOMAIN-SUFFIX,cgi.connect.qq.com:443
-DOMAIN-SUFFIX,hok-gcloudctrl.iegcom.com:443
-DOMAIN-SUFFIX,oalstv-skadsdkless.appsflyersdk.com:443
+DOMAIN-SUFFIX,cgi.connect.qq.com,
+DOMAIN-SUFFIX,hok-gcloudctrl.iegcom.com,
+DOMAIN-SUFFIX,oalstv-skadsdkless.appsflyersdk.com,
 
 
-DOMAIN-SUFFIX,dlied5.qq.com:443
-DOMAIN-SUFFIX,download.sgameglobal.com:443
-DOMAIN-SUFFIX,oalstv-skadsdkless.appsflyersdk.com:443
-DOMAIN-SUFFIX,dl.listdl.com:443
-DOMAIN-SUFFIX,v2-down-gamelet.sgameglobal.com:443
+DOMAIN-SUFFIX,dlied5.qq.com,
+DOMAIN-SUFFIX,download.sgameglobal.com,
+DOMAIN-SUFFIX,oalstv-skadsdkless.appsflyersdk.com,
+DOMAIN-SUFFIX,dl.listdl.com,
+DOMAIN-SUFFIX,v2-down-gamelet.sgameglobal.com,
+DOMAIN-SUFFIX,dl.listdl.com,
 
-IP-CIDR,43.132.55.55:80
+
+
+IP-CIDR,43.132.55.55:80/24
