@@ -1,22 +1,44 @@
-DOMAIN-SUFFIX,download.sgameglobal.com,
+DOMAIN-SUFFIX,fcmtoken.googleapis.com
 
 
-DOMAIN-SUFFIX,oalstv-skadsdkless.appsflyersdk.com:443
+DOMAIN-SUFFIX,oalstv-skadsdkless.appsflyersdk.com
 
 
-DOMAIN-SUFFIX,api-camp.honorofkings.com:443
+DOMAIN-SUFFIX,app-analytics-services.com
 
 
-DOMAIN-SUFFIX,graph.facebook.com:443
+DOMAIN-SUFFIX,graph.facebook.com
 
 
-DOMAIN-SUFFIX,ep2.facebook.com:443
+DOMAIN-SUFFIX,ios.crashsight.wetest.net
 
 
-DOMAIN-SUFFIX,cgi.connect.qq.com:443
+DOMAIN-SUFFIX,dl.listdl.com
 
+
+DOMAIN-SUFFIX,oalstv-inapps.appsflyersdk.com
+
+DOMAIN-SUFFIX,ssl.msdk.qq.com
+
+DOMAIN-SUFFIX,ep2.facebook.com
+
+DOMAIN-SUFFIX,lbsserver.sgameglobal.com
+
+DOMAIN-SUFFIX,dlied5.qq.com
+
+DOMAIN-SUFFIX,cdn.wetest.net
+
+DOMAIN-SUFFIX,hok-gcloudctrl.iegcom.com
+
+DOMAIN-SUFFIX,oalstv-launches.appsflyersdk.com
+
+DOMAIN-SUFFIX,cgi.connect.qq.com
 
 DOMAIN-SUFFIX,
+
+DOMAIN-SUFFIX,
+
+
 
 
 IP-CIDR,43.132.55.55:80,no-resolve
